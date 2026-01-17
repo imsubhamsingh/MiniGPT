@@ -1,4 +1,4 @@
-# Minimal Language Model from Scratch
+# MiniGPT: Minimal Language Model from Scratch
 
 A minimal transformer-based language model implementation from scratch, similar to GPT. This project demonstrates how to build, train, and deploy a small language model using PyTorch, structured like models on Hugging Face.
 
