@@ -1,0 +1,12 @@
+[project]
+name = "MiniGPT"
+version = "0.1.0"
+description = "Minimal language model from scratch"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "torch>=2.0.0",
+    "transformers>=4.30.0",
+    "tokenizers>=0.13.0",
+    "numpy>=1.24.0",
+]
