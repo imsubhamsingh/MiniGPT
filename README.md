@@ -2,6 +2,13 @@
 
 A minimal transformer-based language model implementation from scratch, similar to GPT. This project demonstrates how to build, train, and deploy a small language model using PyTorch, structured like models on Hugging Face.
 
+## Documentation
+
+📚 **Learning Resources:**
+
+- **[Complete Guide](EXPLANATION.md)** - Detailed beginner-friendly explanation of all components, how they work, and the complete architecture
+- **[ChatGPT Comparison](CHATGPT_COMPARISON.md)** - Understand how this model compares to ChatGPT and what makes large language models powerful
+
 ## Features
 
 - **Transformer Architecture**: GPT-like decoder-only transformer with:
